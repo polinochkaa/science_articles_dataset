@@ -1,0 +1,60 @@
+Библиографический список 
+1. J. F. O’Hara, S. Ekin, W. Choi, and I. Song, “A Perspective on Terahertz Next-Generation 
+Wireless Communications,” Technologies, vol. 7, no. 2, p. 43, 2019. 
+2. I. F. Akyildiz, A. Kak, and S. Nie, “6G and Beyond: The Future of Wireless Communications 
+Systems,” IEEE Access, vol. 8, pp. 133995–134030, 2020. 
+3. T. S. Rappaport, Y. Xing, G. R. MacCartney, A. F. Molisch, E. Mellios, and J. Zhang, “Overview 
+of Millimeter Wave Communications for Fifth-Generation (5G) Wireless Networks-With a Focus 
+on Propagation Models,” IEEE Trans. Antennas Propag., vol. 65, no. 12, pp. 6213–6230, 2017. 
+4. T. S. Rappaport et al., “Wireless communications and applications above 100 GHz: Opportunities 
+and challenges for 6g and beyond,” IEEE Access, vol. 7, pp. 78729–78757, 2019. 
+5. A. Starodubov et al., “Technological Approaches to the Microfabrication of Planar Slow-Wave 
+Structures for Millimeter- and THz-Band Vacuum Electron Devices,” in 2020 International 
+Conference on Actual Problems of Electron Devices Engineering (APEDE), 2020, pp. 256–261. 
+6. A. A. Ionin, S. I. Kudryashov, and A. A. Samokhin, “Material surface ablation produced by 
+ultrashort laser pulses,” Uspekhi Fiz. Nauk, vol. 187, no. 2, pp. 159–172, 2017. 
+7. A. H. Hamad, “Effects of Different Laser Pulse Regimes (Nanosecond, Picosecond and 
+Femtosecond) on the Ablation of Materials for Production of Nanoparticles in Liquid Solution,” 
+High Energy Short Pulse Lasers, no. September, 2016. 
+8. R. E. Russo, X. L. Mao, J. H. Yoo, and J. J. Gonzalez, “Laser Ablation,” Laser-Induced Break. 
+Spectrosc., pp. 49–82, 2007. 
+9. A. Serdobintsev et al., “Molybdenum-copper Alloys as a Base Material for Microfabrication 
+Planar Slow-wave Structures of Millimeter-band Vacuum Electron Devices,” in 2020 7th 
+International Congress on Energy Fluxes and Radiation Effects (EFRE), 2020, pp. 809–812. 
+10. E. Theocharous et al., “The partial space qualification of a vertically aligned carbon nanotube 
+coating on aluminium substrates for EO applications,” Opt. Express, vol. 22, no. 6, p. 7290, 2014. 
+11. N. M. Ryskin et al., “Development of microfabricated planar slow-wave structures on dielectric 
+substrates for miniaturized millimeter-band traveling-wave tubes,” J. Vac. Sci. Technol. B, vol. 
+39, no. 1, p. 013204, Jan. 2021. 
+
+                                  «Наноэлектроника, нанофотоника и нелинейная физика»                     142 
+ЧАСТОТНОЕ МУЛЬТИПЛЕКСИРОВАНИЕ И НЕВЗАИМНОЕ  
+РАСПРОСТРАНЕНИЕ СПИНОВЫХ ВОЛН В МНОГОСЛОЙНОЙ  
+СИСТЕМЕ МАГНИТНЫХ МИКРОВОЛНОВОДОВ 
+C. А. Одинцов1, Е. Н. Бегинин1, Э. Г. Локк2, А. В. Садовников1 
+1Саратовский государственный университет им. Н. Г. Чернышевского  
+2ИРЭ им. В. А. Котельникова РАН, Москва 
+E-mail: odinoff@gmail.com 
+ 
+Свойства спиновых волн при их распространении в магнитных волноводных 
+структурах микронных и нанометровых размеров являются предметом интенсив-
+ных исследований. [1] Исследование спин-волнового транспорта в многослойных 
+структурах пленок железо-иттриевого граната (ЖИГ) в гигагерцовом и субтерагер-
+цовом диапазонах частот вызывает большой интерес [2]. Исследования передачи 
+СВ в планарных и многослойных магнитных структурах показывают, что они по-
+тенциально могут быть использованы в качестве носителей информации [3]. 
+Исследуемая структура представляет из себя двуслойную плёнку железоит-
+триевого граната, причём каждый из слоёв имеет свою намагниченность насыще-
+ния. Толщина слоя ЖИГ1 d1 = 8.9 мкм, а намагниченность насыщения 4πM0 = 1738 
+Гс. Толщина слоя ЖИГ2 d2 = 6.9 мкм, а намагниченность насыщения 4πM0 = 904 
+Гс. Структура помещена во внешнее магнитным полем величиной H0 = 670 Э. Для 
+микроволновых измерений были использованы микрополосковые антенны шири-
+ной 30 мкм. Дисперсионные характеристики спиновых волн были эксперимен-
+тально подсчитаны с помощью векторного анализатора цепей PNA-X Keysight.  
+ 
+В такой структуре представляется возможным реализация частотного мульти-
+плексирования сигналов в многослойной структуре с отличным значением намаг-
+ниченности насыщения в слоях. 
+ 
+Работа выполнена при финансовой поддержке РФФИ (проект № 18-29-
+27026).

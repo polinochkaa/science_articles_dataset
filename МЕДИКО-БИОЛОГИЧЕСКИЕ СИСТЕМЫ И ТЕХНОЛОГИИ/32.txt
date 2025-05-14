@@ -1,0 +1,193 @@
+ВОЗДЕЙСТВИЕ БЛИЖНЕГО УЛЬТРАФИОЛЕТОВОГО 
+ИЗЛУЧЕНИЯ НА ВИРУС SARS-COV-2 
+ 
+А.Т. Приходько1,2, И.Н. Завестовская2,3, А.А. Фроня2,3, М.С. Григорьева3, Е.А. Чешев3, 
+И.М. Тупицын3, А.Л. Коромыслов3, А.В. Залыгин1,2, В.А. Олейников1,2 
+1Институт биоорганической химии  
+им. академиков М.М. Шемякина и Ю.А. Овчинникова РАН, г. Москва 
+2Национальный исследовательский ядерный университет МИФИ, г. Москва 
+3Физический институт им. П.Н. Лебедева РАН, г. Москва 
+E-mail: aleksandrako1999@gmail.com  
+ 
+Аннотация: Экзогенные механизмы инактивации патогенов, в том числе вируса 
+SARS-CoV-2, обусловлены воздействием излучения ближнего ультрафиолетового 
+диапазона на сенсибилизаторы среды и образованием фотореактивных промежуточных 
+продуктов. Данный механизм инактивации до сих пор является малоизученным и 
+является причиной сезонности некоторых заболеваний. В данной работе представлен 
+обзор по проведенным исследованиям. 
+Ключевые слова: фотоинактивация, УФ-излучение, SARS-CoV-2 
+ 
+Коронавирус тяжелого острого респираторного синдрома 2 типа 
+(SARS-CoV-2) был впервые обнаружен в конце 2019 года в городе Ухань 
+[1,2]. В 2020 году в Мире было зафиксировано множество случаев 
+заражения коронавирусной инфекцией COVID-19, вызванной вирусом 
+SARS-CoV-2, 
+и 
+Всемирная 
+Организация 
+Здравоохранения 
+(ВОЗ) 
+официально признала распространение инфекции пандемией [3]. По 
+данным ВОЗ на 26 апреля 2023 года во всем мире было зарегистрировано 
+760 360 956 подтвержденных случаев COVID-19, включая 6 873 477 
+смертей (Рис.1).  
+ 
+Рис. 1. Статистика ВОЗ зарегистрированных случаев COVID-19  
+на 26 апреля 2023 года [4]. 
+ 
+В связи с пандемией нагрузка на систему здравоохранения во всем 
+Мире увеличилась в разы, в том числе возникла проблема дезинфекции 
+медицинских помещений и средств индивидуальной защиты (СИЗ). 
+Была 
+установлена 
+высокая 
+чувствительность 
+SARS-CoV-2 
+к 
+ультрафиолетовому излучению в дальнем диапазоне (УФ-C):   < 290 нм 
+
+316 
+ 
+[5], которая обусловлена прямым поглощением излучения вирусной РНК и 
+вирусными белками [6]. Однако применение УФ-C источников излучения 
+ограничивает присутствие в помещении людей, поскольку способно 
+нанести 
+серьезный вред здоровью [7]. Так, дезинфекция УФ-С 
+источниками в красной зоне с большим количеством пациентов 
+представляется крайне непростой задачей. 
+Нуклеиновые кислоты и аминокислоты, как уже было сказано, 
+имеют пик поглощения в УФ-С области, однако существуют реакции 
+инактивации, которые протекают под воздействием излучения УФ-В ( :  
+290 - 320 нм) и УФ-А ( : 320 - 400 нм)  диапазонов (рис.2), достигающего 
+поверхности Земли и не так пагубно сказывающегося на биологических 
+объектах.  
+ 
+Рис.2. Модель механизмов инактивации солнечным светом вирусов и бактерий. Для 
+прямых механизмов фотон поглощается хромофором в месте повреждения (красный 
+крест). При непрямых механизмах фотон поглощается сенсибилизатором (Сенс), и 
+повреждение (красный крест) происходит в другом месте. Желтые фигуры 
+представляют собой белки. ФПП - фотореактивные промежуточные продукты [8]. 
+ 
+Проведенные исследования показали, что солнечное излучение (УФ-
+В и УФ-А диапазоны) снижает скорость передачи вируса SARS-CoV-2 [9, 
+10]. Излучение УФ-В диапазона способно приводить к быстрой 
+инактивации патогенов, в том числе SARS-CoV-2, поскольку совпадает с 
+хвостом спектра поглощения нуклеиновых кислот и белков [11-14]. Было 
+показано, что излучение УФ-А диапазона, также способно как снизить 
+активность SARS-CoV-2, так и полностью инактивировать вирионы [15-
+
+317 
+ 
+19]. Однако механизм инактивации вируса в данном диапазоне излучения 
+до сих пор малоизучен.  
+Проведенный в работе [19] анализ литературы по результатам 
+воздействия ультрафиолетового излучения на патогены показал, что 
+патогены с геномом в виде РНК более чувствительны к ближнему УФ 
+диапазону, чем патогены с ДНК-геномом (Рис.3).  
+ 
+Рис. 3. Спектры действия УФ-диапазонов излучения на бактерии и вирусы, а 
+также ДНК [19]. 
+ 
+Однако, известно, что инактивация УФ-А излучением тесно связана 
+со средой, в которой происходит облучение патогена. Практически во всех 
+работах, включенных в данный анализ, использовались различные среды: 
+• 
+H1N1 (оцРНК-вирус) - среда DMEM с 5% FBS и 60 мкг/мл 
+Канамицина 
+• 
+T4 – (дцДНК) - 100 мкл суспензии E. coli и 10 мкл MS2 
+добавляли в 2,5 мл мягкого агара (TYE + 7,5 г/л агара) 
+• 
+MS2 (оцРНК-вирус) - триптон-дрожжевой экстракт (10 г/л 
+триптона, 1 г/л дрожжевого экстракта и 8 г/л хлорида натрия в 
+деионизированной воде.) + Стерильный раствор Ca-глюкозы (1 г/л 
+глюкозы, 3 г/л CaCl2 и 10 мг/л тиамина)  
+• 
+SARS-CoV-2 (оцРНК-вирус) - DMEM c 2 % FBS, 100 Ед/мл 
+пенициллина и 100 мкг/мл стрептомицина 
+Таким образом, до сих пор не были сделаны выводы о том, с чем 
+именно связан ингибирующий эффект, оказываемый УФ-А излучением на 
+вирус SARS-CoV-2 и другие патогены. Вероятно, он связан с образованием 
+активных форм кислорода [20]. Кроме того, было установлено, что 
+нуклеотид РНК урацил обладает низкой фотостабильностью [21].  
+Механизм инактивации вируса SARS-CoV-2 УФ-А диапазоном 
+излучения напрямую связан со средой, в которой происходит облучение 
+
+318 
+ 
+патогена. Важно установить конкретные свойства и состав среды, что 
+позволит инактивировать вирионы с меньшими дозами излучения.  
+В настоящей работе будут представлены результаты последних 
+экспериментов по исследованию воздействия ближнего УФ-излучения на 
+вирус SARS-CoV-2 в средах с различным уровнем pH и составом. 
+Полученные данные направлены на установление влияния свойств среды 
+на спектры действия, а также определение достаточных для инактивации 
+вируса доз. Определение механизма инактивации и его оптимизация 
+позволит создать новый подход в дезинфекции медицинских помещений.  
+ 
+Библиографический список 
+1. Zhou P., Yang X.L., Wang X.G., et al. A pneumonia outbreak associated with a 
+new coronavirus of probable bat origin // Nature. 2020. V. 579. P. 270–273. 
+2. Zhu N., et al. A Novel Coronavirus from Patients with Pneumonia in China, 2019 
+// N. Engl. J. Med. 2020. V. 382. P. 727-733.  
+3. Sohrabi C., et al. World Health Organization declares global emergency: A 
+review of the 2019 novel coronavirus (COVID-19) // Int. J. Surg. 2020. V. 76. P. 71-76. 
+4. https://covid19.who.int/ WHO Coronavirus (COVID-19) Dashboard. Обращение 
+к ресурсу 26.04.2023. 
+5. Biasin M., Bianco A., Pareschi G., et al. UV-C irradiation is highly effective in 
+inactivating SARS-CoV-2 replication // Sci. Rep. 2021. V. 11. P. 6260 - 6267. 
+6. Ariza-Mateos A., Prieto-Vega S., Díaz-Toledano R., Birk A., Szeto H., Mena I., 
+Berzal-Herranz A., Gómez J. RNA self-cleavage activated by ultraviolet light-induced 
+oxidation // Nucleic Acids Res. 2012. V. 40. P. 1748–1766. 
+7. Zaffina S., Camisa V., Lembo M., Vinci M.R., Tucci M.G., Borra M., Napolitano 
+A., Cannatà V. Accidental exposure to UV radiation produced by germicidal lamp: case report 
+and risk assessment // Photochem. Photobiol. 2012. V. 88. P. 1001-1004. 
+8. Nelson K.L., Boehm A.B., Davies-Colley R.J., Dodd M.C., Kohn T., Linden K.G., 
+et al. Sunlight-mediated inactivation of health-relevant microorganisms in water: a review of 
+mechanisms and modeling approaches // Environ Sci Process Impacts. 2018. V. 20. P. 1089–
+1122. 
+9. Rendell R., Khazova M., Higlett M., O’Hagan J. Impact of high solar UV radiant 
+exposures in spring 2020 on SARS-CoV-2 viral inactivation in the UK // Photochem. 
+Photobiol. – 2021. V. 97. P. 542–548.  
+10. Tang L., Liu M., Ren B., Wu Z., Yu X., Peng C., et al. Sunlight ultraviolet radiation 
+dose is negatively correlated with the percent positive of SARS-CoV-2 and four other 
+common human coronaviruses in the US // Sci. Total Environ. 2021. V. 751. P. 141816. 
+11. Ratnesar-Shumate S., Williams G., Green B., Krause M., Holland B., Wood S., et 
+al. Simulated sunlight rapidly inactivates SARS-CoV-2 on surfaces // J. Infect. Dis. 2020. V. 
+222. P. 214–222.  
+12. Schuit M., Biryukov J., Beck K., Yolitz J., Bohannon J., Weaver W., et al. The 
+stability of an isolate of the SARS-CoV-2 B. 1.1.7 lineage in aerosols is similar to three 
+earlier isolates // J. Infect. Dis. 2021. V. 224. P. 1641–1648. 
+13. Schuit M., Ratnesar-Shumate S., Yolitz J., Williams G., Weaver W., Green B., et 
+al. Airborne SARS-CoV-2 is rapidly inactivated by simulated sunlight // J. Infect. Dis. 2020. 
+V. 222. P. 564–571.  
+14. Wondrak G.T., Jandova J., Williams S.J., Schenten D. Solar simulated ultraviolet 
+radiation inactivates HCoV-NL63 and SARS-CoV-2 coronaviruses at environmentally 
+relevant doses // J. Photochem. Photobiol. B Biol. 2021.  V. 224. P. 112319. 
+
+319 
+ 
+15. Heilingloh C.S., Aufderhorst U.W., Schipper L., Dittmer U., Witzke O., Yang D., 
+Zheng X., Sutter K., Trilling M., Alt M., Steinmann E., Krawczyk A. Susceptibility of SARS-
+CoV-2 to UV irradiation // Am. J. Infect. Control. 2020. V. 48. P. 1273-1275. 
+16. Lau B., Becher D., Hessling M. High Intensity Violet Light (405 nm) Inactivates 
+Coronaviruses in Phosphate Buffered Saline (PBS) and on Surfaces // Photonics. 2021. V. 8. 
+P. 414. 
+17. De Santis R., Luca V., J. Näslund, Ehmann R.K., De Angelis M., Lundmark E., et 
+al. Rapid inactivation of SARS-CoV-2 with LED irradiation of visible spectrum wavelengths 
+// J. Photochem. Photobiol. 2021. V. 8. P. 100082. 
+18. Stasko N., Kocher J.F., Annas A., Henson I., Seitz T.S., Miller J.M., et al. Visible 
+blue light inhibits infection and replication of SARS-CoV-2 at doses that are welltolerated by 
+human respiratory tissue // Sci. Rep. 2021. V. 11. P. 1–13. 
+19. Biasin M., Strizzi S., Bianco A., Macchi A., Utyro O., Pareschi G., Loffreda A., 
+Cavalleri A., Lualdi M., Trabattoni D., Tacchetti C., Mazza D., Clerici M. UV and violet light 
+can Neutralize SARS-CoV-2 Infectivity // J. Photochem. Photobiol. 2022. V. 10. P. 100107. 
+20. McGuigan K.G., Conroy R.M., Mosler H.J., du Preez M., Ubomba-Jaswa E., 
+Fernandez-Ibañez, P. Solar water disinfection (SODIS): a review from bench-top to roof-top 
+// J. Hazard. Mater. 2012. V. 235-236. P. 29-46.  
+21. Winkler M., Giuliano B.M., Caselli P. UV Resistance of Nucleosides—An 
+Experimental Approach // ACS Earth and Space Chemistry. 2020. V. 4. P. 2320-2326. 
+ 
+ 
+
+320

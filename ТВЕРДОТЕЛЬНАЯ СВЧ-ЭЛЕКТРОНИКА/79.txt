@@ -1,0 +1,127 @@
+ASSOCIATED APPLE 
+PLANT BACTERIUM AS A SOURCE OF POTENTIAL 
+ANTIBIOTICS AND OTHER SECONDARY METABOLITES 
+ 
+H.A. Mohamed1, A.M. Peterson1, W.E. Ebrahim2 
+1 Saratov State University, Faculty of Biology 
+E-mail: Hassan_awad37@mail.ru, alexandra.peterson@yandex.ru 
+2 Heinrich-Heine University, Institute of Pharmaceutical Biology and Biotechnology, 
+Dusseldorf, Germany, 
+E-mail: weaamnabil@hotmail.de 
+ 
+Natural antagonistic microorganisms have emerged as a promising alternative 
+to chemical interactions for more rational and safe crop management, so several 
+strains belonging to the genus Bacillus and particularly to the B. subtilis and B. amy-
+loliquefaciens species were reported effective for the bio control of multiple plant 
+diseases caused by soil-borne [1] or post-harvest pathogens [2, 3, 4]. It is well known 
+that some Bacillus species may synthesize numerous antimicrobial or, more general-
+ly, bioactive compounds with well-established activity in vitro [5]. However, except 
+for a very limited number of strains [6], many studies that relate the global potential 
+for antibiotic production with the biocontrol activity of a particular Bacillus strain 
+have been reported. But B. amyloliquefaciens strain SA94 displays high in vitro inhi-
+bitory activity toward growth of multiple fungal and plant pathogens [7]. 
+In this study we isolated 54 strains of B. amyloliquefaciens found on 21 apple 
+shoots, all of these strains are morphologically characterized by performing Gram 
+staining and Molecular characterization performed by 16S rRNA with sequences 
+16S-27F: 
+AGAGTTTGATCNTGGYTCAG 
+and 
+16S-907R2: 
+CCGTGAATTCHTTTRAGTTT of rRNA gene sequence analysis it has identical se-
+quences (100% of similarity) and it was confirmed by MALDI-TOF as B. amyloli-
+quefaciens(SA94). Cultivation and isolation of secondary metabolites was done after 
+fresh bacterial colonies suspension transferring into Erlenmeyer flask (1L) was con-
+taining 100 g rice for solid cultures. The cultures were then incubated at room tem-
+perature without shaking for 21 days. Then complete extraction filtration was done 
+followed by repeated extraction with EtOAc and MeOH. HPLC analysis of the bac-
+terial crude extract was investigated.  
+The isolated strain B. amyloliquefaciens(SA94), was tested in vitro to detection 
+antagonistic activity against many of pathogenic fungi, the results showed that B. 
+amyloliquefaciens recorded high antagonistic activity (fig. 1). 
+ 
+
+ 
+116
+ 
+Fig. 1.  Inhibition of Fusarium tricinctum (left) and Aspergillus tu-
+bingensis (right)growth with B. amyloliquefaciens SA94 
+ 
+ 
+According to Sephadex fractions, the peaks of the HPLC- chromatogram were 
+matched with the reference compound available in the database by UV-Visible spec-
+trum. The peaks in the chromatogram having the same UV-Visible spectrum and reten-
+tion time with that of the reference compound was identified and named. 1-Scalarolide, 
+2-Cerebroside, 3-Palitantin all of these data are listed in (fig. 2) and (Table 1). 
+Fig. 2. HPLC chromatogram of B. amyloliquefaciens crude extract of (1) 
+Scalarolide,(2)Cerebroside, (3) Palitantin 
+ 
+Table 1. Characteristics of isolated metabolites from dominant fungi 
+Species 
+Metabolites 
+Chemical 
+formula 
+HPLC 
+retention time
+Characters 
+Bacillus 
+amyloliquefaciens
+Scalarolide 
+C25H38O3 
+21.1 min 
+antimicrobial 
+Cerebroside 
+C41H77NO9 
+28.2 min 
+Antibiotic 
+Palitantin 
+C14H22O4 
+36.7 min 
+Antiprotozoa 
+&antimicrobial 
+ 
+The bacterial crude extract was tested for cytotoxicity against the mouse lym-
+phoma cell line L5178Y. (IC50>10 mg/mL), using the microculture tetrazolium 
+(MTT) assay, as well as antibacterial potentials of the crude extract were evaluated 
+against Staphyloccocus aureus ATCC 25922, and Mycobacterium tuberculosis. The 
+results showed that B. amyloliquefaciens crude extract has antibacterial activity 
+against S. aureus ATCC 25922, but not active against M. tuberculosis. Also bacterial 
+crude extract showed weak cytotoxic activity against lymphoma cell line L5178Y, 
+
+ 
+117
+these experiments carried out by Prof. Dr. Kassack, M. Institute of Pharmaceutical 
+and Medicinal Chemistry, Heinrich-Heine University, Düsseldorf, Germany. 
+ 
+References 
+ 
+1. Leclere V., Bechet M., Adam A., Guez J.S., Wathelet B., Ongena M., Thonart P., Gancel F., 
+Chollet-Imbert M., Jacques P. Mycosubtilin overproduction by Bacillus subtilis BBG100 en-
+hances the organisms antagonistic and biocontrol activities. Applied and environmental micro-
+biology. 2005. V. 71. P. 4577-4584.  
+2. Senghor A., Liang W.L., Ho W. Integrated control of Colletotrichum gloeosporioides on mango 
+fruit in Taiwan by the combination of Bacillus subtilis and fruit bagging. Biocontrol science 
+and technology. 2007. V. 9. P. 575-580. 
+3. Yang Z., Guo H., Zhang X. Study on the control of peach post-harvest diseases using Bacillus 
+subtilis. China Fruits. 2008. V. 23. P. 35-38. 
+4. Kotan R., Dikbas N., Bostan H. Biological control of post-harvest disease caused 
+by Aspergillus flavus on stored lemon fruits. African journal of biotechnology. 2009. V. 8. 
+P. 209-214. 
+5. Stein T. Bacillus subtilis antibiotics: structures, syntheses and specific functions. Molecular mi-
+crobiology. 2005. V. 56.P. 845-857.  
+6. Chen X., Koumoutsi A., Scholz R., Schneider K., Vater J., Sussmuth R., Piel J., Borriss R. Ge-
+nome analysis of Bacillus amyloliquefaciens FZB42 reveals its potential for biocontrol of plant 
+pathogens. Journal of biotechnology. 2009.V. 140. P. 27-37.  
+7. Toure Y., Ongena M., Jacques P., Guiro A., Thonart P. Role of lipopeptides produced 
+by Bacillus subtilis GA1 in the reduction of grey mould disease caused by Botrytis cinerea on ap-
+ple. Journal of applied microbiology. 2004. V. 96. P.1151-1160. 
+ 
+ 
+ 
+
+ 
+118
+ 
+ 
+ 
+4. ТВЕРДОТЕЛЬНАЯ  
+СВЧ-ЭЛЕКТРОНИКА

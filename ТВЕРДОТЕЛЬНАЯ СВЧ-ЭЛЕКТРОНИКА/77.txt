@@ -1,0 +1,78 @@
+МОДЕЛИРОВАНИЕ ПРОЦЕССА НАНОИНДЕНТИРОВАНИЯ  
+ЛИПОПРОТЕИНА ВЫСОКОЙ ПЛОТНОСТИ 
+ 
+О.Е. Глухова, Г.В. Савостьянов 
+Саратовский национальный исследовательский государственный  
+университет им. Н.Г. Чернышевского   
+E-mail: savostyanov.gv@gmail.com 
+ 
+Взаимодейтсвие биомакромолекул с углеродными наноструктурами 
+вызывает большой интерес в силу больших перспектив применения углеродных 
+наноструктур в биотехнологиях, адресной доставки лекарств, доставки 
+различных элементов через клеточную мембрану и др. Исследование поведения 
+липопротеина высокой плотности (ЛВП) под воздействием неоднородной 
+механической нагрузки может помочь в понимании процесса проникновения 
+липопротеинов сквозь узкие каналы, например, через межэндотелиальные щели 
+клеток внутрь сосудов. Эта проблема очень важна, поскольку липопротеины, 
+которые переносят холестерол (липопротеины низкой и очень низкой 
+плотности), способны проникать в интиму артерий, в результате чего 
+происходит накопление холестерола и развитие атеросклероза. 
+
+ 
+111
+ 
+Рис. 1.ЛВП в процессе моделирования наноиндентирования 
+ 
+Моделирование индентирования ЛВП было осуществлено в рамках 
+метода молекулярной динамики с применением крупнозернистого силового 
+поля MARTINI. ЛВП помещался между неподвижной графеновой подложкой  и 
+закрытой одностенной углеродной  нанотрубкой (УНТ). Все объекты 
+находились в водном окружении при температуре 310 К. Моделирование 
+проводилось в два этапа: на первом этапе УНТ приближалась к липопротеину, 
+деформируя его, на втором этапе УНТ извлекалась из липопротеина. Было 
+проведено два численных эксперимента по этой схеме, в которых скорость 
+движения УНТ составляла соответственно 20 м/с и 5 м/с. 
+Оба численных эксперимента, соответствующие скоростям УНТ 20 м/с и 
+5 м/с, показали качественно идентичную картину. В ходе индентирования 
+липопротеиновые пояса перестраивались в структуре ЛВП таким образом, что 
+УНТ проходила не сквозь них, а сквозь фосфолипидную среду. В процессе 
+моделирования 
+обратного 
+хода 
+УНТ 
+было 
+обнаружено, 
+что 
+часть 
+фосфолипидов переходит на УНТ. В остальном, после удаления УНТ 
+липопротеин восстанавливает свою структуру.  Таким образом, ЛВП обладает 
+эластичностью и высокой способностью к перестраиванию структуры без 
+потери целостности, что может обеспечивать им хорошую диффузионную 
+способность в процессах проникновения сквозь межэндотелиальные щели. 
+ 
+Библиографическийсписок 
+ 
+1. Ren J., Shen S., Wang D., Xi Z., Guo L., Pang Z., Qian Y., Sun X., Jiang X. The Targeted Deli-
+very of Anticancer Drugs to Brain Glioma by Pegylated Oxidized Multi-Walled Carbon Nano-
+tubes Modified with Angiopep-2 // Biomaterials.2012. V. 33. P. 3324–3333. 
+2. Wallace E.J., Sansom M.S.P. Carbon Nanotube/Detergent Interactions via Coarse-Grained Mo-
+lecular Dynamics // Nano Lett. 2007. V. 7. P. 1923–1928. 
+
+ 
+112
+3. Lelimousin M., Sansom M.S. Membrane Perturbation by Carbon Nanotube Insertion: Pathways 
+to Internalization // Small.2013. V. 9. P. 3639–3646.  
+4. Wallace E.J., Sansom M.S. Blocking of Carbon Nanotube Based Nanoinjectors by Lipids // 
+Nano Lett. 2008. V. 8. P. 2751-2756. 
+5. Klein M.L., Shinoda W. Large-Scale Molecular Dynamics Simulations of Self-Assembling Sys-
+tems // Science. 2008. V. 321. P. 798−800. 
+6. Shi  X.H., Kong Y., Gao H.J. Coarse Grained Molecular Dynamics and Theoretical Studies of 
+Carbon Nanotubes Entering Cell Membrane // Acta Mech. Sin. 2008. V. 24. P. 161−169. 
+7. Gu F., Jones M.K., Chen J., Patterson J.C., Catte A., Jerome W.G., Li L., Segrest J.P. Struc-
+tures of Discoidal High Density Lipoproteins: A Combined Computational-Experimental Ap-
+proach // J. Biol. Chem.2010. V. 285. P. 4652-4665. 
+8. Catte A., Patterson J.C., Bashtovyy D., Jones M.K., Gu F., Li L., Rampioni A., Sengupta D., 
+Vuorela T., Niemelä P. et al. Structure of Spheroidal HDL Particles Revealed by Combined 
+Atomistic and Coarse-Grained Simulations. // Biophys. J. 2008. V. 94. P. 2306-2319. 
+9. Shih A.Y., Arkhipov A., Freddolino P.L.; Schulten K. Coarse Grained Protein−Lipid Model with 
+Application to Lipoprotein Particles // J. Phys. Chem.B. 2006. V. 110. P. 3674–3684.

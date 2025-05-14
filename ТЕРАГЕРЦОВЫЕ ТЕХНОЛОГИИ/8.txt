@@ -1,0 +1,189 @@
+ПРОБЛЕМЫ И ПЕРСПЕКТИВЫ ТЕРАГЕРЦОВОЙ 
+БИОФОТОНИКИ 
+ 
+В.В.Тучин 
+Саратовский национальный исследовательский  
+государственный университет имени Н.Г. Чернышевского 
+Томский национальный исследовательский государственный университет 
+Институт биохимии им. А.Н. Баха ФИЦ Биотехнологии РАН, г. Москва 
+Институт проблем точной механики и управления РАН, г. Саратов 
+E-mail: tuchinvv@mail.ru 
+ 
+Аннотация: 
+Представлены 
+экспериментальные 
+методы 
+тергагерцовой 
+медицинской диагностики. Обсуждаются их достоинства и недостатки, а также пути 
+преодоления недостатков. Например, для повышения пространственной разрешающей 
+способности методов предлагается использование микроскопов с твердой иммерсией, а 
+для увеличения глубины зондирования – иммерсионное оптическое просветление с 
+использованием жидкостей. 
+Ключевые слова: терагерцовое излучение, медицинская диагностика, терапия, 
+поглощение, рассеяние, твердотельная иммерсия, оптическое просветление. 
+ 
+Изучение взаимодействия света с биологическими тканями и 
+клетками в УФ, видимом, ИК и терагерцовом (ТГц) диапазонах позволяет 
+решать сложные задачи медицинской диагностики и терапии [1–3]. 
+Сравнительно недавно были показаны возможности использования ТГц 
+излучения в биомедицине, которые в основном обусловлены сильной 
+чувствительностью ТГц волн к содержанию и состоянию (свободному или 
+связанному) 
+воды 
+в 
+тканях 
+и 
+клетках 
+[4–12]. 
+Это 
+было 
+продемонстрировано экспериментально при применении ТГц-технологии в 
+медицинской 
+диагностике 
+злокачественных 
+и 
+доброкачественных 
+новообразований [5–10], для мониторинга осложнений при сахарном 
+диабете [11, 12], ожирения [13] и вирусных инфекций [14], а также для 
+терапии воспалительных заболеваний и рака [15].  
+Несмотря на заметные успехи, ТГц-биофотоника является новой 
+областью исследований, которая требует решения ряда научных и 
+технологических проблем. 
+По сравнению с видимым и ИК-диапазонами накоплено достаточно 
+мало данных о взаимодействии ТГц-волн со здоровыми и патологически 
+измененными 
+тканями. 
+Эту 
+проблему 
+необходимо 
+решать 
+для 
+объективного выявления сильных и слабых сторон терагерцовых методов. 
+Частично эти вопросы обсуждаются в работах [1–10]. 
+Пространственное разрешение большинства ТГц оптических систем 
+ограничивается дифракционным пределом Аббе и обычно составляет 
+несколько сотен микрон. Преодоление этого предела имеет решающее 
+
+473 
+ 
+значение в медицинской спектроскопии и визуализации и успешно 
+решается с использованием терагерцовых микроскопов с твердой 
+иммерсией [16–18] или пучка конических оптических волокон с высоким 
+показателем преломления [19]. 
+Поскольку фактическая глубина проникновения ТГц-волн в ткани 
+ограничена всего несколькими сотнями (или даже десятками) микрон за 
+счет сильного поглощения воды и высокого показателя преломления 
+тканей с высоким содержанием воды, то проблема увеличения глубины 
+зондирования тканей с помощью иммерсионных или компрессионных 
+методов оптического просветления является актуальной [4, 20]. При этом 
+эффективность просветления в заметной степени должна зависеть не 
+только от поглощающих, но и рассеивающих свойств тканей [21]. 
+Исследование выполнено при поддержке Минобрнауки России в 
+рамках выполнения государственного задания (проект № FSRR-2023-
+0007). 
+ 
+Библиографический список 
+1. В.В. Тучин Оптика биологических тканей. Методы рассеяния света в 
+медицинской диагностике. 2-е издание. Физматлит. 2012. 811 с.  
+2. V.V. Tuchin, J. Popp, and V.P. Zakharov (Eds.), Multimodal optical diagnostics of 
+cancer. Basel: Springer Nature Switzerland AG. 2020 600 р. 
+3. V.V. Tuchin, D. Zhu, and E.A. Genina (Eds.). Handbook of Tissue Optical 
+Clearing: New Prospects in Optical Imaging. Taylor & Francis Group LLC, CRC Press, Boca 
+Raton, FL (2022). – 688 p. 
+4. O.A. Smolyanskaya, K.I. Zaytsev, I.N. Dolganova, G.R. Musina, D.K. Tuchina, 
+M.M. Nazarov, A.P. Shkurinov, and V.V. Tuchin, Tissue optical clearing in the terahertz 
+range, in Handbook of Tissue Optical Clearing: New Prospects in Optical Imaging, V.V. 
+Tuchin, D. Zhu, E.A. Genina (Eds.), Taylor & Francis Group LLC, CRC Press, Boca Raton, 
+FL (2022), pp. 445-458. 
+5. O.A. Smolyanskaya, N.V. Chernomyrdin, A.A. Konovko, K.I. Zaytsev, I.A. 
+Ozheredov, O.P. Cherkasova, M.M. Nazarov, J.-P. Guillet, S.A. Kozlov, Yu.V. Kistenev, J.-L. 
+Coutaz, P. Mounaix, V.L. Vaks, J.-H. Son, H. Cheon, V.P. Wallace, Yu. Feldman, I. Popov, 
+A.N. Yaroslavsky, A.P. Shkurinov, V.V. Tuchin, Terahertz biophotonics as a tool for studies of 
+dielectric and spectral properties of biological tissues and liquids // Progress in Quantum 
+Electronics. 2018. 62, pp. 1-77. 
+6. K.I. Zaytsev, I.N. Dolganova, N.V. Chernomyrdin, G.M. Katyba, A.A. Gavdush, 
+O.P. Cherkasova, G.A. Komandin, M.A. Shchedrina, A.N. Khodan, D.S. Ponomarev, I.V. 
+Reshetov, V.E. Karasik, M.A Skorobogatiy, V.N. Kurlov, and V.V. Tuchin The progress and 
+perspectives of terahertz technology for diagnosis of neoplasms: A review // Journal of 
+Optics. 2020. 22(1). P.  013001.  
+7. G. R. Musina, P. V. Nikitin, N. V. Chernomyrdin, I. N. Dolganova, A. A. Gavdush, 
+G. A. Komandin, D. S. Ponomarev, A. A. Potapov, I. V. Reshetov, V. V. Tuchin, and K. I. 
+Zaytsev Prospects of terahertz technology in diagnosis of human brain tumors – A review // J. 
+Biomed. Photonics & Eng. 2020. 6(2). pp. 020201-1-11. 
+8. A.A. Gavdush, 
+N.V. Chernomyrdin, 
+K.M. Malakhov, 
+S.-I.T. Beshplav, 
+I.N. Dolganova, A.V. Kosyrkova, P.V. Nikitin, G.R. Musina, G.M. Katyba, I.V. Reshetov, 
+O.P. Cherkasova, G.A. Komandin, V.E. Karasik, A.A. Potapov, V.V. Tuchin, K.I. Zaytsev, 
+Terahertz spectroscopy of gelatin-embedded human brain gliomas of different grades: a road 
+toward intraoperative THz diagnosis // Journal of Biomedical Optics. 2019. 24(2). P. 027001.  
+9. N.V. 
+Chernomyrdin, G.R. 
+Musina, P.V. 
+Nikitin, I.N. 
+Dolganova, A.S. 
+Kucheryavenko, A.I. Alekseeva, Y. Wang, D. Xu, Q. Shi, V.V. Tuchin, K.I. Zaytsev Terahertz 
+
+474 
+ 
+technology in intraoperative neurodiagnostics: A review // Opto-Electron Adv. 2022. 6. P. 
+220071.  
+10. A. A. Gavdush, N. V. Chernomyrdin, G. A. Komandin, I. N. Dolganova, P. V. 
+Nikitin, G. R. Musina, G. M. Katyba, A. S. Kucheryavenko, I. V. Reshetov, A. A. Potapov, V. 
+V. Tuchin, K. I. Zaytsev, Terahertz dielectric spectroscopy of human brain gliomas and intact 
+tissues ex vivo: double-Debye and double-overdamped-oscillator models of dielectric 
+response // Biomed. Opt. Express. 2021. 12 (1). P. 411025.  
+11. O. A. Smolyanskaya, I. J. Schelkanova, M. S. Kulya, E. L. Odlyanitskiy, I. S. 
+Goryachev, A. N. Tcypkin, Ya. V. Grachev, Ya. G. Toropova, and V. V. Tuchin Glycerol 
+dehydration of native and diabetic animal tissues studied by THz-TDS and NMR methods // 
+Biomed. Opt. Express. 2018. 9(3). pp. 1198-1215.  
+12. A Shirkavand, VV Tuchin, F Jahangiri, E Mohajerani A review on terahertz non-
+destructive applications for wound and diabetic foot screening // Optical and Quantum 
+Electronics. 2022. 54 (8). pp. 1-20.  
+13. Yanina, I.Y.; Nikolaev, V.V.; Zakharova, O.A.; Borisov, A.V.; Dvoretskiy, K.N.; 
+Berezin, K.V.; Kochubey, V.I.; Kistenev, Yu.V.; Tuchin, V.V. Measurement and Modeling of 
+the Optical Properties of Adipose Tissue in the Terahertz Range: Aspects of Disease 
+Diagnosis // Diagnostics. 2022. 12. P. 2395.   
+14. М. Р. Конникова, О. П. Черкасова, Т. А. Гейнц, Е. С. Дизер, А. А. Манькова, 
+И. С. Васильевский, 
+А. А. Бутылин, 
+Ю. В. Кистенев, 
+В. В. Тучин, 
+А. П. Шкуринов 
+Изучение адсорбции спайкового белка вируса SARS-CoV-2 методами колебательной 
+спектроскопии с применением терагерцевых метаматериалов // Квантовая электроника. 
+2022. том 52 (1). С. 2-12.  
+15. O.P. Cherkasova, D.S. Serdyukov, E.F. Nemova, A.S. Ratushnyak, A.S. 
+Kucheryavenko, I.N. Dolganova, G. Xu, M. Skorobogatiy, I.V. Reshetov, P.S. Timashev, I.E. 
+Spektor, K.I. Zaytsev, V.V. Tuchin Cellular effects of terahertz waves // J. Biomed. Opt. 2021. 
+26(9). P. 090902.  
+16. N. V. Chernomyrdin, A. S. Kucheryavenko, G. S. Kolontaeva, G. M. Katyba, I. N. 
+Dolganova, P. A. Karalkin, D. S. Ponomarev, V. N. Kurlov, I. V. Reshetov, M. Skorobogatiy, 
+V. V. Tuchin, K. I. Zaytsev Reflection-mode continuous-wave 0.15   -resolution terahertz 
+solid immersion microscopy of soft biological tissues // Applied Physics Letters. 2018. 
+113(11). P. 111102. 
+17. A. S. Kucheryavenko, N. V. Chernomyrdin, A. A. Gavdush, A. I. Alekseeva, P. V. 
+Nikitin, I. N. Dolganova, P. A. Karalkin, A. S. Khalansky, I. E. Spektor, M. Skorobogatiy, V. 
+V. Tuchin, K. I.  Zaytsev Terahertz dielectric spectroscopy and solid immersion microscopy of 
+ex vivo glioma model 101.8: brain tissue heterogeneity // Biomed. Opt. Express. 2021. 12 (8) 
+pp. 5273-5289.  
+18. N.V. Chernomyrdin, M. Skorobogatiy, D.S. Ponomarev, V.V. Bukin, V.V. Tuchin, 
+K.I. Zaytsev Terahertz solid immersion microscopy: Recent achievements and challenges // 
+Applied Physics Letters. 2022. 120 (11). P. 110501.  
+19. G.M. Katyba, M. Skorobogatiy, D.G. Melikyants, N.V. Chernomyrdin, A.N. Perov, 
+E.V. Yakovlev, I.N. Dolganova, I.E. Spektor, V.V. Tuchin, V.N. Kurlov, and K.I. Zaytsev 
+Superresolution imaging using a tapered bundle of high-refractive-index optical fibers // 
+Physical Review Applied. 2022. 18(3). P. 034069.  
+20. G. R. Musina, I. N. Dolganova, N. V. Chernomyrdin, A. A. Gavdush, V. E. Ulitko, 
+O. P. Cherkasova, D. K. Tuchina, P. V. Nikitin, A. I. Alekseeva, N. V. Bal, G. A. Komandin, V. 
+N. Kurlov, V. V. Tuchin, K. I. Zaytsev Optimal hyperosmotic agents for tissue immersion 
+optical clearing in terahertz biophotonics // J. Biophotonics. 2020. 13(12). P. e202000297.  
+21. I. N. Dolganova, K. I. Zaytsev, S. O. Yurchenko, V. E. Karasik, V. V. Tuchin 
+Scattering in Quasi-Ordered Structures for Terahertz Imaging: Local Order Can Increase an 
+Image Quality // IEEE Transactions on Terahertz Science and Technology. 2018. 8 (4), pp. 
+403-409.  
+ 
+ 
+
+475
